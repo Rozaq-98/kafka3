@@ -1,0 +1,7 @@
+[2025-11-24 22:48:46,139] INFO [Broker id=1] Transitioning 3 partition(s) to local leaders. (state.change.logger)
+[2025-11-24 22:48:46,146] INFO [Broker id=1] Creating new partition users-0 with topic id Xer2sqAqS8uFdV57mcG5YA. (state.change.logger)
+[2025-11-24 22:48:46,199] INFO [Broker id=1] Leader users-0 with topic id Some(Xer2sqAqS8uFdV57mcG5YA) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-11-24 22:48:46,208] INFO [Broker id=1] Creating new partition merchants-0 with topic id b6DytiUtS0ipYSJB64SqrA. (state.change.logger)
+[2025-11-24 22:48:46,228] INFO [Broker id=1] Leader merchants-0 with topic id Some(b6DytiUtS0ipYSJB64SqrA) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-11-24 22:48:46,234] INFO [Broker id=1] Creating new partition transactions-0 with topic id KHqWIfV-TJ2Ex3HSBpLKYQ. (state.change.logger)
+[2025-11-24 22:48:46,252] INFO [Broker id=1] Leader transactions-0 with topic id Some(KHqWIfV-TJ2Ex3HSBpLKYQ) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
