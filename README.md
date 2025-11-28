@@ -15,6 +15,14 @@
 **Topic**	Channel/tempat pesan/event dikirim & disimpan	Menjadi jalur komunikasi antara producer dan consumer	Topic transaksi di Kafka
 
 
+<img width="106" height="239" alt="image" src="https://github.com/user-attachments/assets/2ee4e275-104e-47b2-a704-d92398b1d6e6" />
+
+
+
+
+<img width="449" height="156" alt="image" src="https://github.com/user-attachments/assets/4a54ca4e-f10b-4d55-8b14-364989c3ee60" />
+
+
 Hasil query kafka
 
 <img width="608" height="284" alt="image" src="https://github.com/user-attachments/assets/89dae68b-dd85-4557-97e1-a6e1665e8905" />
